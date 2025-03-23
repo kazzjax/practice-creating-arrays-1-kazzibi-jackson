@@ -1,1 +1,9 @@
-
+let groceryItems = ["apple", "baguette", "banana", "milk", "salad"];
+let itemPrices = [0.59, 2.00, 3.89];
+console.log(groceryItems);
+console.log(itemPrices);
+console.log(groceryItems[0]);
+console.log(groceryItems[2]);
+console.log(groceryItems[4]);
+console.log(itemPrices[0]);
+console.log(itemPrices[2]);
